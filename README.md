@@ -7,8 +7,8 @@ C# and .NET are where I feel most at home. I also work with C, JavaScript/TypeSc
 ## What I get up to
 
 - Building APIs and experimenting with different ways of structuring them.
-- Working with embedded systems, binary file formats and low-level programming.
-- Occasionally venturing into frontend development when something needs a face.
+- Working with embedded systems, and low-level stuff.
+- Occasionally venturing into ui dev when something needs a face.
 - Working toward an M.Sc. in Computer Science and Engineering (Software).
 
 ## Things I write
